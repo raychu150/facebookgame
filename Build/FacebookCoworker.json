@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FacebookCoworker.data.unityweb",
+"asmCodeUrl": "FacebookCoworker.asm.code.unityweb",
+"asmMemoryUrl": "FacebookCoworker.asm.memory.unityweb",
+"asmFrameworkUrl": "FacebookCoworker.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
